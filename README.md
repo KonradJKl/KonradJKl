@@ -1,6 +1,6 @@
 ### Hi, I'm Konrad 👋
 
-M.Sc. Computer Science (TU Berlin) building **computer-vision and deep-learning** systems — with a focus on **neural 3D reconstruction** and **remote sensing**.
+M.Sc. Computer Science (TU Berlin) building **computer-vision and deep-learning** systems, with a focus on **neural 3D reconstruction** and **remote sensing**.
 
 **Core stack:** Python · PyTorch · Deep Learning · Computer Vision
 
