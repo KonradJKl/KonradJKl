@@ -7,9 +7,11 @@ M.Sc. Computer Science (TU Berlin) building **computer-vision and deep-learning*
 ---
 #### 🔭 Featured projects
 
-**[NeuroBathy](https://github.com/KonradJKl/NeuroBathy)** — Physics-informed neural 3D reconstruction for shallow-water bathymetry from aerial imagery. Combines a modified NeRFrac and VGGT with a Snell's-law refraction correction; reaches ~34 cm depth accuracy from images alone.
+**[NeuroBathy](https://github.com/KonradJKl/NeuroBathy)**: Physics-informed neural 3D reconstruction for shallow-water bathymetry from aerial imagery. Combines a modified NeRFrac and VGGT with a Snell's-law refraction correction; reaches ~34 cm depth accuracy from images alone.
 
-**[MLCZ-Pipeline](https://github.com/KonradJKl/MLCZ-Pipeline)** — Deep-learning pipeline for large-scale remote-sensing data. <!-- TODO: einen Satz ergänzen, was genau die Pipeline macht -->
+**[Bathymetry-Fusformer](https://github.com/KonradJKl/Bathymetry-Fusformer)**: Reconstructs 0.25 m seabed imagery from 10 m Sentinel-2 data, guided by high-resolution bathymetry. Adaptation of the Fusformer transformer with an LMDB patch pipeline, masked training and GeoTIFF output.
+
+**[MLCZ-Pipeline](https://github.com/KonradJKl/MLCZ-Pipeline)**: Semantic segmentation of Local Climate Zones in European cities from Sentinel-2 imagery, with cross-city generalization experiments (U-Net, PyTorch Lightning).
 
 ---
 
