@@ -11,7 +11,7 @@ M.Sc. Computer Science (TU Berlin) building **computer-vision and deep-learning*
 
 **[Bathymetry-Fusformer](https://github.com/KonradJKl/Bathymetry-Fusformer)**: Reconstructs 0.25 m seabed imagery from 10 m Sentinel-2 data, guided by high-resolution bathymetry. Adaptation of the Fusformer transformer with an LMDB patch pipeline, masked training and GeoTIFF output.
 
-**[MLCZ-Pipeline](https://github.com/KonradJKl/MLCZ-Pipeline)**: Semantic segmentation of Local Climate Zones in European cities from Sentinel-2 imagery, with cross-city generalization experiments (U-Net, PyTorch Lightning).
+**[MLCZ-Pipeline](https://github.com/KonradJKl/MLCZ-Pipeline)**: Semantic segmentation of Local Climate Zones in Berlin, Milan and Athens, fusing 10 Sentinel-2 bands with 234 PRISMA hyperspectral bands. A U-Net (PyTorch Lightning) reaches 73.5 % test accuracy over 17 LCZ classes; includes cross-city transfer experiments. **[Explore the interactive city maps →](https://konradjkl.github.io/MLCZ-Pipeline/)**.
 
 ---
 
