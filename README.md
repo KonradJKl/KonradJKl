@@ -7,7 +7,7 @@ M.Sc. Computer Science (TU Berlin) building **computer-vision and deep-learning*
 ---
 #### 🔭 Featured projects
 
-**[NeuroBathy](https://github.com/KonradJKl/NeuroBathy)**: Physics-informed neural 3D reconstruction for shallow-water bathymetry from aerial imagery. Combines a modified NeRFrac and VGGT with a Snell's-law refraction correction; reaches ~34 cm depth accuracy from images alone.
+**[NeuroBathy](https://github.com/KonradJKl/NeuroBathy)**: Physics-informed neural 3D reconstruction for shallow-water bathymetry from aerial imagery. Combines a modified NeRFrac and VGGT with a Snell's-law refraction correction; reaches 0.34 m RMSE against surveyed ground truth when a surveyed water surface is available.
 
 **[Bathymetry-Fusformer](https://github.com/KonradJKl/Bathymetry-Fusformer)**: Reconstructs 0.25 m seabed imagery from 10 m Sentinel-2 data, guided by high-resolution bathymetry. Adaptation of the Fusformer transformer with an LMDB patch pipeline, masked training and GeoTIFF output.
 
